@@ -107,7 +107,7 @@
 
 <img src="https://raw.githubusercontent.com/jichangbaike/weituyun/refs/heads/main/images/weituyun-test-20260312.png" alt="唯兔云下载测速和流媒体测试">
 
-> 测试时间：2026-03-12，网络：联通 1Gbps（单线程）
+> 测试时间：2026-03-12，网络：电信 1Gbps（单线程）
 
 ## 平台支持与客户端指引
 
